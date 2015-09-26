@@ -29,7 +29,7 @@ Note: due to the mass and volume of the deployable KPBS Greenhouse and Habitat, 
 
 ### Support
 
-Report any bugs, issues, requests, or suggestions via GitHub.
+Report any bugs, issues, requests, or suggestions via [GitHub] (https://github.com/LouisB3/UKS-KPBS_Compatibility).
 
 ### License
 UKS-KPBS Compatibility by LouisB3 is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License] (http://creativecommons.org/licenses/by-nc-sa/4.0/).
