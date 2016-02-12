@@ -15,17 +15,13 @@ Drop the UKS-KPBS_Compatibility folder into your GameData folder wherever KSP is
 
 ### Features
 
+- The KPBS Science Laboratory functions as a UKS Pioneer Module
 - The large KPBS Greenhouse functions as a UKS Aeroponics Module
-- The KPBS Algae Farm functions like a UKS Inflatable Agriculture Module
+- The small KPBS greenhouse functions as a UKS Inflatable Agriculture Module
 - The KPBS Habitat Mk2 functions as a UKS Kerbitat Module
-- The KPBS Habitat Mk1 functions like a double-capacity UKS Inflatable Habitat Module
-- The KPBS Command Module has the power distribution capability of the UKS PDU
-- The KPBS Science Laboratory has the nuclear enrichment capability of the UKS PDU
-- The KPBS Cupola works as an Survey Station for Extraplanetary Launchpads
+- The KPBS Habitat Mk1 functions as a double-capacity UKS Inflatable Habitat Module
+- The KPBS Command Module functions as a UKS PDU
 - Switchable storage for UKS resources in two sizes for the KPBS modular storage system
-- The small KPBS greenhouse functions like the USI-LS Nom-O-Matic 5000
-
-Note: due to the mass and volume of the deployable KPBS Greenhouse and Habitat, their capacities are double that of the UKS Aeroponics and Kerbitat Modules. To balance this, they receive only half the normal bonus from nearby efficiency parts.
 
 ### Support
 
