@@ -1,13 +1,13 @@
 UKS-KPBS Compatibility
 ===
 
-This is a set of configuration files to allow use of the Kerbal Planetary Base System parts with the USI Kolonization System gameplay mechanics.
+This is a set of configuration files to allow use of the Kerbal Planetary Base System parts with the USI Life Support & Kolonization System gameplay mechanics.
 
 ### Dependencies
 
-- [USI Kolonization System] (https://github.com/BobPalmer/MKS) by RoverDude/BobPalmer
 - [Kerbal Planetary Base System] (http://forum.kerbalspaceprogram.com/threads/127413-WIP-1-0-4-Kerbal-Planetary-Base-Systems-v0-2-4-Update-13-9-2015) by Nils277
 - [USI Life Support] (https://github.com/BobPalmer/USI-LS) by RoverDude/BobPalmer
+- [USI Kolonization System] (https://github.com/BobPalmer/MKS) by RoverDude/BobPalmer
 
 ### Installation
 
@@ -15,13 +15,21 @@ Drop the UKS-KPBS_Compatibility folder into your GameData folder wherever KSP is
 
 ### Features
 
-- The KPBS Science Laboratory functions as a UKS Pioneer Module
-- The large KPBS Greenhouse functions as a UKS Aeroponics Module
-- The small KPBS greenhouse functions as a UKS Inflatable Agriculture Module
-- The KPBS Habitat Mk2 functions as a UKS Kerbitat Module
-- The KPBS Habitat Mk1 functions as a double-capacity UKS Inflatable Habitat Module
-- The KPBS Command Module functions as a UKS PDU
-- Switchable storage for UKS resources in two sizes for the KPBS modular storage system
+USI Life Support functions are added to KPBS modules:
+
+- The Habitat Mk1 works as a mid-grade life support recycler (33%); the Science Lab has a 71% recycler; and the Habitat Mk2 has the highest-efficiency recycler (90%), but requires Water as input.
+- The Habitat modules have habitation space.
+- The Cupola works as a habitation multiplier.
+- The small (wedge-shaped) and large (deployable) Greenhouse use Agroponics to convert Mulch and Fertilizer into Supplies.
+
+UKS features are also incorporated:
+
+- The large Greenhouse has a Cultivator to turn Substrate, Water, and Fertilizer into Supplies.
+- The Command Module works as a power & resource distributor.
+- All modules incorporate a power coupler to tap into the power distribution network.
+- Switchable storage wedges in two sizes are added for UKS resources; these function as distribution warehouses like Kontainers.
+
+Finally, the small Algae Farm is hidden as its functionality is incorporated into other parts.
 
 ### Support
 
