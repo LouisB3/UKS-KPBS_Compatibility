@@ -31,6 +31,10 @@ UKS features are also incorporated:
 
 Finally, the small Algae Farm is hidden as its functionality is incorporated into other parts.
 
+### Known Issues
+
+The switchable storage wedges use the NOMS texture for every configuration. If you can create custom textures, feel free to submit a pull request!
+
 ### Support
 
 Report any bugs, issues, requests, or suggestions via [GitHub] (https://github.com/LouisB3/UKS-KPBS_Compatibility).
