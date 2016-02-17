@@ -11,13 +11,13 @@ This is a set of configuration files to allow use of the Kerbal Planetary Base S
 
 ### Installation
 
-Drop the UKS-KPBS_Compatibility folder into your GameData folder wherever KSP is installed.
+Delete any existing installed version of this mod, then drop the UKS-KPBS_Compatibility folder into your GameData folder wherever KSP is installed.
 
 ### Features
 
 USI Life Support functions are added to KPBS modules:
 
-- The Habitat Mk1 works as a mid-grade life support recycler (33%); the Science Lab has a 71% recycler; and the Habitat Mk2 has the highest-efficiency recycler (90%), but requires Water as input.
+- The Habitat Mk1 works as a mid-grade life support recycler (34%); the Science Lab has a 71% recycler; and the Habitat Mk2 has the highest-efficiency recycler (90%), but requires Water as input.
 - The Habitat modules have habitation space.
 - The Cupola works as a habitation multiplier.
 - The small (wedge-shaped) and large (deployable) Greenhouse use Agroponics to convert Mulch and Fertilizer into Supplies.
