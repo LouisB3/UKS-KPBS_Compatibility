@@ -28,8 +28,7 @@ UKS features are also incorporated:
 - The Command Module works as a power & resource distributor.
 - All modules incorporate a power coupler to tap into the power distribution network.
 - Switchable storage wedges in two sizes are added for UKS resources; these function as distribution warehouses like Kontainers.
-
-Finally, the small Algae Farm is hidden as its functionality is incorporated into other parts.
+- The Algae Farm has converters to create Fertilizer from Gypsum and Water from Hydrates.
 
 ### Known Issues
 
