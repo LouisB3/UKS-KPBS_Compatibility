@@ -45,7 +45,7 @@ For balance reasons, the following differences from regular UKS modules were mad
 - The Mk3 Refinery, Sifter, and Fabricator modules have no electric capacity.
 - The Mk3 Refinery, Sifter, and Fabricator modules have a maximum Recyclables storage of 200.
 - The Mk3 Refinery, Sifter, and Fabricator modules do not need other modules to operate (workshops).
-- 
+
 
 ### Known Issues
 
