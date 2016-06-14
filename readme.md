@@ -30,13 +30,30 @@ UKS features are also incorporated:
 - Switchable storage wedges in two sizes are added for UKS resources; these function as distribution warehouses like Kontainers.
 - The Algae Farm has converters to create Fertilizer from Gypsum and Water from Hydrates.
 
+The following modules are added:
+
+- Inline versions of the MEU-250, -500, and -750 drills
+- Inline versions of the Mk3 Fabricator, Refinery, and Sifter
+
+## Differences from UKS Modules
+
+For balance reasons, the following differences from regular UKS modules were made:
+
+- Drills have 75% efficiency. The MEU-750 drill is only 50% efficient for drilling water; the stock K&K Water drill can be used for higher efficiency. Each drill holds a maximum of 10 units of each resource.
+- The Mk3 Refinery, Sifter, and Fabricator are only 80% as efficient; output is reduced by 20%.
+- The Mk3 Refinery, Sifter, and Fabricator modules have no crew capacity.
+- The Mk3 Refinery, Sifter, and Fabricator modules have no electric capacity.
+- The Mk3 Refinery, Sifter, and Fabricator modules have a maximum Recyclables storage of 200.
+- The Mk3 Refinery, Sifter, and Fabricator modules do not need other modules to operate (workshops).
+
+
 ### Known Issues
 
-The switchable storage wedges use the NOMS texture for every configuration. If you can create custom textures, feel free to submit a pull request!
+The switchable storage wedges use the NOMS texture for every configuration. The inline drills use the same model and color as the K&K Water drill; and the Mk3 modules use the ISRU model. If you can create custom textures, feel free to submit a pull request!
 
 ### Support
 
 Report any bugs, issues, requests, or suggestions via [GitHub] (https://github.com/LouisB3/UKS-KPBS_Compatibility).
 
 ### License
-UKS-KPBS Compatibility by LouisB3 is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License] (http://creativecommons.org/licenses/by-nc-sa/4.0/).
+UKS-KPBS Compatibility by LouisB3 is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License] (http://creativecommons.org/licenses/by-nc-sa/4.0/). Additional work done by ibanix under the same license.
